@@ -59,3 +59,8 @@ The goal is to turn raw ride data into actionable insights that help improve cus
 
 ---
 
+## 📁 Files Included
+
+- `Namma Yatri.pdf` – Power BI dashboard file for Namma Yatri insights
+- `SQL_NammaYatri` – EDA with SQL
+- `Namma Yatri Analysis Report.pdf` – In-depth insights report
